@@ -1,8 +1,8 @@
 <?php
 
 require 'vendor/autoload.php';
-require_once 'src/Point.php';  // Убедитесь, что путь правильный
-require_once 'src/Vector.php'; // Точно так же для Vector.php
+require_once 'src/Point.php';
+require_once 'src/Vector.php';
 
 
 use App\MagicClass;
